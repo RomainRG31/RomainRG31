@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" height="250px" src="https://github.com/RomainRG31/RomainRG31/assets/97295039/c139bd95-ce0a-4b87-b73e-066acbd3493f" alt="matrix" />
+<img width="100%" height="200px" src="https://github.com/RomainRG31/RomainRG31/assets/97295039/c139bd95-ce0a-4b87-b73e-066acbd3493f" alt="matrix" />
 </p>
 
 
