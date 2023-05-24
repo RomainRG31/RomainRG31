@@ -38,14 +38,11 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4D3DC&height=160&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=160&section=footer"/>
 
 
 
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4D3DC&height=160&section=header&text=%20&fontSize=90" />
 
 
 
