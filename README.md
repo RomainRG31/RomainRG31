@@ -23,7 +23,7 @@
 ```bash
 npx romainrg
 ```
-**Cet outil de ligne de commande est trouvable juste ici [npx romainrg31](https://github.com/RomainRG31/npx_card)**
+**Cet outil de ligne de commande est trouvable juste ici [romainrg](https://github.com/RomainRG31/romainrg)**
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
 
