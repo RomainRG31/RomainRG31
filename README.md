@@ -21,7 +21,7 @@
 **Tape ceci dans ton terminal pour te connecter avec moi.**
 
 ```bash
-npx romainrg31
+npx romainrg
 ```
 **Cet outil de ligne de commande est trouvable juste ici [npx romainrg31](https://github.com/RomainRG31/npx_card)**
 
