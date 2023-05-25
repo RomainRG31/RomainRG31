@@ -5,7 +5,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=600&color=00FF00&hide_border=true&center=true&vCenter=true&width=1000&lines=Salutation+!+Je+suis+Romain+ROGER;J'ai+30+ans+et+je+vis+%C3%A0+Toulouse;D%C3%A9veloppeur+web+en+devenir;Je+vous+laisse+d%C3%A9couvrir+mon+profil;Enjoy+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=600&color=00FF00&hide_border=true&center=true&vCenter=true&width=1000&lines=Bonjour+!+Je+suis+Romain+ROGER;J'ai+30+ans+et+je+vis+%C3%A0+Toulouse;D%C3%A9veloppeur+web+en+devenir;Je+vous+laisse+d%C3%A9couvrir+mon+profil;Enjoy+!)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
 
