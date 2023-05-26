@@ -44,6 +44,8 @@ npx romainrg
 ![Mongodb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![apollo](https://img.shields.io/badge/-apollo-0D1117?style=for-the-badge&logo=apollographql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Graphql](https://img.shields.io/badge/-graphql-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+
                                                                                                                   
                                                                                                                   
 <!--START_SECTION:waka-->
