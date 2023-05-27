@@ -11,8 +11,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RomainRG31&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=00FF00"" alt="Romain ROGER github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainRG31&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=00FF00" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RomainRG31&show_icons=true&count_private=true&hide_border=true&locale=fr&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=00FF00"" alt="Romain ROGER github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainRG31&layout=compact&hide_border=true&locale=fr&theme=transparent&title_color=ffffff&text_color=00FF00" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
