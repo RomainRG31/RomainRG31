@@ -11,7 +11,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RomainRG31&show_icons=true&count_private=true&hide_border=true&locale=fr&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=00FF00"" alt="Romain ROGER github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RomainRG31&show_icons=true&hide=issues&count_private=true&hide_border=true&locale=fr&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=00FF00"" alt="Romain ROGER github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainRG31&layout=compact&hide_border=true&locale=fr&theme=transparent&title_color=ffffff&text_color=00FF00" />
 </div>
 
