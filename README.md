@@ -46,8 +46,8 @@ npx romainrg
 ![Graphql](https://img.shields.io/badge/-graphql-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-                                                                                                                  
-                                                                                                                  
+<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
+                                                                                                                                                                                                                           
 <!--START_SECTION:waka-->
 **Je suis un 🐤 du matin** 
 
