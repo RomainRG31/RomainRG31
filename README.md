@@ -49,7 +49,7 @@ npx romainrg
                                                                                                                   
                                                                                                                   
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**Je suis un lève tôt 🐤** 
 
 ```text
 🌞 Morning                38 commits          ███████░░░░░░░░░░░░░░░░░░   28.36 % 
@@ -57,7 +57,7 @@ npx romainrg
 🌃 Evening                26 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **Je suis plus productif le lundi** 
 
 ```text
 Monday                   36 commits          ███████░░░░░░░░░░░░░░░░░░   26.87 % 
@@ -70,7 +70,7 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Cette semaine mon temps s'est porté sur:** 
 
 ```text
 💬 Programming Languages: 
