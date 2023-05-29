@@ -28,17 +28,21 @@ npx romainrg
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
 
 
-### Compétences:
+### Compétences Front:
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![SASS](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
+                                                                                                                  
+### Compétences Back:
+![Mongodb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Express](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&textColor=0D1117)&nbsp;
+                                                                                                                                                                                                                          
+### Outils:
+![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 ### En cours d'apprentissage:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Mongodb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![apollo](https://img.shields.io/badge/-apollo-0D1117?style=for-the-badge&logo=apollographql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Graphql](https://img.shields.io/badge/-graphql-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
