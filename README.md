@@ -76,13 +76,13 @@ Dimanche                 3 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+CSS                      11 mins             █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 
