@@ -76,13 +76,13 @@ Dimanche                 9 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Langages: 
-JavaScript               16 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 
