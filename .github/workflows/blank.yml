@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
+    # Runs at 18:30 CET (Central European Time) every day
     - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
