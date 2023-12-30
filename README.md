@@ -77,13 +77,14 @@ Dimanche                 10 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+TypeScript               28 mins             █████████████████████████   99.42 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 
