@@ -5,7 +5,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=400&color=00FF00&hide_border=true&center=true&vCenter=true&width=1000&lines=Bonjour+!+Je+suis+Romain+GELDER+ROGER;J'ai+31+ans+et+je+vis+%C3%A0+Toulouse;D%C3%A9veloppeur+React+passioné+en+recherche+d'alternance;Je+vous+laisse+d%C3%A9couvrir+mon+profil;Enjoy+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=400&color=00FF00&hide_border=true&center=true&vCenter=true&width=1000&lines=Bonjour+!+Je+suis+Romain+GELDER+ROGER;J'ai+31+ans+et+je+vis+%C3%A0+Toulouse;D%C3%A9veloppeur+React+en+recherche+d'alternance;Je+vous+laisse+d%C3%A9couvrir+mon+profil;Enjoy+!)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
 
@@ -31,6 +31,8 @@ npx romainrg
 ### Compétences Front:
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
                                                                                                                   
 ### Compétences Back:
 ![Mongodb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -43,11 +45,10 @@ npx romainrg
 
 
 ### En cours d'apprentissage:
-![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Swift](https://img.shields.io/badge/-swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117&textColor=0D1117)&nbsp;
+![XCode](https://img.shields.io/badge/-xcode-0D1117?style=for-the-badge&logo=xcode&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PosteGres](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
                                                                                                                                                                                                                            
