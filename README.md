@@ -28,23 +28,19 @@ npx romainrg
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
 
 
-### Compétences Front:
+### Compétences :
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-                                                                                                                  
-### Compétences Back:
-![Mongodb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Express](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&textColor=0D1117)&nbsp;
-                                                                                                                                                                                                                          
-### Outils:
+
+                                                               
+### Outils :
 ![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 
-### En cours d'apprentissage:
+### En cours d'apprentissage :
 ![Swift](https://img.shields.io/badge/-swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![XCode](https://img.shields.io/badge/-xcode-0D1117?style=for-the-badge&logo=xcode&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
