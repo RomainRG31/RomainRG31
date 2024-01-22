@@ -74,13 +74,14 @@ Dimanche                 11 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+JavaScript               24 mins             ██████████████░░░░░░░░░░░   54.37 % 
+JSON                     20 mins             ███████████░░░░░░░░░░░░░░   45.63 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 
