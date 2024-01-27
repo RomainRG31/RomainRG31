@@ -30,9 +30,11 @@ npx romainrg
 
 ### Compétences :
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![SASS](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 
                                                                
 ### Outils :
@@ -41,10 +43,7 @@ npx romainrg
 
 
 ### En cours d'apprentissage :
-![Swift](https://img.shields.io/badge/-swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117&textColor=0D1117)&nbsp;
-![XCode](https://img.shields.io/badge/-xcode-0D1117?style=for-the-badge&logo=xcode&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=10&section=header"/>
                                                                                                                                                                                                                            
