@@ -76,13 +76,14 @@ Dimanche                 22 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+JavaScript               31 mins             █████████████████████████   98.55 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 
