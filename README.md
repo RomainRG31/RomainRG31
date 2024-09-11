@@ -76,13 +76,13 @@ Dimanche                 22 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+CSS                      12 mins             █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 
